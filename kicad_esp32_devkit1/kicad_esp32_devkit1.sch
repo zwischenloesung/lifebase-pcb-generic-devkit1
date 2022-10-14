@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:kicad_esp32_devkit1-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -291,23 +292,23 @@ $EndComp
 $Comp
 L Connector:Conn_01x18_Female J26
 U 1 1 618B3149
-P 8150 3500
-F 0 "J26" H 8177 3476 50  0000 L CNN
-F 1 "Conn_01x18_Female" H 8177 3385 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical" H 8150 3500 50  0001 C CNN
-F 3 "~" H 8150 3500 50  0001 C CNN
-	1    8150 3500
+P 8000 5000
+F 0 "J26" H 8027 4976 50  0000 L CNN
+F 1 "Conn_01x18_Female" H 8027 4885 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical" H 8000 5000 50  0001 C CNN
+F 3 "~" H 8000 5000 50  0001 C CNN
+	1    8000 5000
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x18_Female J27
 U 1 1 618B4725
-P 8100 4800
-F 0 "J27" H 8127 4776 50  0000 L CNN
-F 1 "Conn_01x18_Female" H 8127 4685 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical" H 8100 4800 50  0001 C CNN
-F 3 "~" H 8100 4800 50  0001 C CNN
-	1    8100 4800
+P 8000 3550
+F 0 "J27" H 8027 3526 50  0000 L CNN
+F 1 "Conn_01x18_Female" H 8027 3435 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical" H 8000 3550 50  0001 C CNN
+F 3 "~" H 8000 3550 50  0001 C CNN
+	1    8000 3550
 	0    -1   -1   0   
 $EndComp
 $Comp
